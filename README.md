@@ -22,38 +22,4 @@ Me encanta aprender cosas nuevas, crear proyectos útiles y mejorar cada día.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 📂 Proyectos Destacados
-
-### [Portfolio](https://miportfolio.com)
-Mi portafolio personal donde muestro mis proyectos más importantes y habilidades.
-
-### [Task App](https://github.com/JuanDev/task-app)
-Aplicación de tareas con **React y Node.js**, autenticación, y almacenamiento en MongoDB.
-
-### [Blog Dev](https://github.com/JuanDev/blog-dev)
-Blog hecho con **Next.js**, donde comparto tips de programación y tecnologías.
-
----
-
-## 📊 Estadísticas de GitHub
-
-![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanDev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDev&layout=compact&theme=radical)
-
----
-
-## 🌐 Conectemos
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://miportfolio.com)
-
----
-
-## 🎯 GIF Motivacional
-
-![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
-
 
