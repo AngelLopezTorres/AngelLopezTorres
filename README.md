@@ -1,10 +1,10 @@
-# 👋 Hola, soy Ángel
+# 👋 Hello I'm Angel
 
-## 💻 Sobre mí
-Soy un **Desarrollador Full Stack** apasionado por el **Open Source** y la tecnología.  
-Me encanta aprender cosas nuevas, crear proyectos útiles y mejorar cada día.
+I'm a student learning Java!
+I'm improving day by day and learning new things to be a little better than yesterday.
+I enjoy creating programs and testing them.
 
-- 🌱 Actualmente aprendiendo: **Next.js, GraphQL y DevOps**
+I'm also learning to program in Unity, but I dedicate more time to Java.
 - 👯 Busco colaborar en **proyectos open source**
 - 💬 Pregúntame sobre **JavaScript, React, Node.js**
 - ⚡ Curiosidad: Me encantan los retos de programación y los hackathons
