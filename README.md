@@ -1,4 +1,4 @@
-# 👋 Hola, soy Juan Dev
+# 👋 Hola, soy Ángel
 
 ## 💻 Sobre mí
 Soy un **Desarrollador Full Stack** apasionado por el **Open Source** y la tecnología.  
